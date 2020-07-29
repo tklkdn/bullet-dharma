@@ -15,4 +15,4 @@ How to play:
 - You have 5 lives to start.
 - Defeat the boss to beat the game. 
 
-![bullet dharma](./images/bullet dharma.gif)
+![bullet dharma](/images/bulletdharma.gif)
