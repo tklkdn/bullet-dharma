@@ -1,6 +1,8 @@
 
 ## Bullet Dharma
 
+This game was built and tested on a Windows machine.
+
 External libraries (Python):
 - pygame
 
